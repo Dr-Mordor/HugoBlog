@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on Terminal</title>
-    <link>//localhost:1313/tags/hugo/</link>
+    <link>/tags/hugo/</link>
     <description>Recent content in Hugo on Terminal</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 02 Sep 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sharing and Commiting</title>
-      <link>//localhost:1313/posts/sharing-and-committing/</link>
+      <link>/posts/sharing-and-committing/</link>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/sharing-and-committing/</guid>
+      <guid>/posts/sharing-and-committing/</guid>
       <description>It is not the mountain we conquer, but ourselves. Sir Edmund Hillary&#xA;The morning was energized. Outside work and meetings are done. I guess it&amp;rsquo;s time to get shit done. following networkchuck blogging video 2024 I learned the following things&#xA;Connecting github to local git via ssh-key Basic Hugo websites and themes Basic gitsubmodules git init git config &amp;ndash;global user.name &amp;ldquo;Dr-Mordor&amp;rdquo; git config &amp;ndash;global user.email &amp;ldquo;test@tonystark-webmaster.com&amp;rdquo; rsync -av &amp;ndash;delete source destination ssh-keygen -t rsa -b 4096 -C &amp;ldquo;test@tonystark-webmaster.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Discipline on Terminal</title>
-    <link>./tags/discipline/</link>
+    <link>/tags/discipline/</link>
     <description>Recent content in Discipline on Terminal</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="./tags/discipline/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/discipline/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reborn as Dr. Mordor</title>
-      <link>./posts/reborn-as-dr.-mordor/</link>
+      <link>/posts/reborn-as-dr.-mordor/</link>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>./posts/reborn-as-dr.-mordor/</guid>
+      <guid>/posts/reborn-as-dr.-mordor/</guid>
       <description>I&amp;rsquo;ve had my ups and downs, my fair share of bumpy roads and heavy winds. thats what made me what I am today.Van damme&#xA;In a warm summer evening I got fed up by my procrastination and lack of progress in life. This was a month ago when the wake up call hit me. I needed to wake up and focus on my what am I doing in my life, building my career.</description>
     </item>
   </channel>

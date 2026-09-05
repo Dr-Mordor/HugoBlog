@@ -2,48 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/ant-man/</loc>
+    <loc>./tags/ant-man/</loc>
     <lastmod>2026-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/linux/</loc>
+    <loc>./tags/linux/</loc>
     <lastmod>2026-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/networking/</loc>
+    <loc>./tags/networking/</loc>
     <lastmod>2026-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>./posts/</loc>
     <lastmod>2026-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/exposed-in-a-good-way/</loc>
+    <loc>./posts/exposed-in-a-good-way/</loc>
     <lastmod>2026-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>./tags/</loc>
     <lastmod>2026-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>./</loc>
     <lastmod>2026-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/ant-man-to-the-rescue/</loc>
+    <loc>./posts/ant-man-to-the-rescue/</loc>
     <lastmod>2026-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/hugo/</loc>
+    <loc>./tags/hugo/</loc>
     <lastmod>2026-09-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/sharing-and-committing/</loc>
+    <loc>./posts/sharing-and-committing/</loc>
     <lastmod>2026-09-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/webdev/</loc>
+    <loc>./tags/webdev/</loc>
     <lastmod>2026-09-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/discipline/</loc>
+    <loc>./tags/discipline/</loc>
     <lastmod>2026-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/personalarc/</loc>
+    <loc>./tags/personalarc/</loc>
     <lastmod>2026-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/reborn-as-dr.-mordor/</loc>
+    <loc>./posts/reborn-as-dr.-mordor/</loc>
     <lastmod>2026-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>./categories/</loc>
   </url>
 </urlset>

@@ -1,5 +1,5 @@
 ---
-title: Reborn as Dr. Mordor
+title: Ant-man to the rescue
 date: 2026-09-03
 draft: false
 tags:

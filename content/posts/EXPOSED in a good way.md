@@ -1,5 +1,5 @@
 ---
-title: Reborn as Dr. Mordor
+title: EXPOSED in a good way
 date: 2026-09-04
 draft: false
 tags:

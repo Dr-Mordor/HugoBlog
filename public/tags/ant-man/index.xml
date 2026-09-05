@@ -9,14 +9,14 @@
     <lastBuildDate>Fri, 04 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/ant-man/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Reborn as Dr. Mordor</title>
+      <title>EXPOSED in a good way</title>
       <link>/posts/exposed-in-a-good-way/</link>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <guid>/posts/exposed-in-a-good-way/</guid>
       <description>Normal people believe that if it ain’t broke, don’t fix it. Engineers believe that if it ain’t broke, it doesn’t have enough features yet. Scott Adams&#xA;Building on yesterday, I linked my static pi website to tonystark-webmaster.com using cloudflare secure tunnels without exposing any ports. I installed docker to make everything clean and breakable. cloudflared connector is isolated. Finally you guys can see my blog live now after day 4.</description>
     </item>
     <item>
-      <title>Reborn as Dr. Mordor</title>
+      <title>Ant-man to the rescue</title>
       <link>/posts/ant-man-to-the-rescue/</link>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
       <guid>/posts/ant-man-to-the-rescue/</guid>

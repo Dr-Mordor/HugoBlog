@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Networking on Terminal</title>
-    <link>./tags/networking/</link>
+    <link>/tags/networking/</link>
     <description>Recent content in Networking on Terminal</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 04 Sep 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="./tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/networking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reborn as Dr. Mordor</title>
-      <link>./posts/exposed-in-a-good-way/</link>
+      <link>/posts/exposed-in-a-good-way/</link>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>./posts/exposed-in-a-good-way/</guid>
+      <guid>/posts/exposed-in-a-good-way/</guid>
       <description>Normal people believe that if it ain’t broke, don’t fix it. Engineers believe that if it ain’t broke, it doesn’t have enough features yet. Scott Adams&#xA;Building on yesterday, I linked my static pi website to tonystark-webmaster.com using cloudflare secure tunnels without exposing any ports. I installed docker to make everything clean and breakable. cloudflared connector is isolated. Finally you guys can see my blog live now after day 4.</description>
     </item>
     <item>
       <title>Reborn as Dr. Mordor</title>
-      <link>./posts/ant-man-to-the-rescue/</link>
+      <link>/posts/ant-man-to-the-rescue/</link>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>./posts/ant-man-to-the-rescue/</guid>
+      <guid>/posts/ant-man-to-the-rescue/</guid>
       <description>Normal people believe that if it ain’t broke, don’t fix it. Engineers believe that if it ain’t broke, it doesn’t have enough features yet. Scott Adams&#xA;I picked up my raspberry pi from the drawer, Connected it to power and ethernet, Flashed it with dietpi. Now I&amp;rsquo;ve a 24/7 soldier guarding my network with Pi-hole. and everything is degoogled and private using ubound recursive dns.&#xA;I&amp;rsquo;ll be adding more services in the future stay tuned.</description>
     </item>
   </channel>

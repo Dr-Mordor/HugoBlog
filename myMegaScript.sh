@@ -1,4 +1,5 @@
 rsync -av --delete /home/mordor/Documents/Obsidian\ Vault/posts /home/mordor/Documents/drMordor/content/
+hugo
 git add .
 git commit -m "bash it up"
 git push -u origin master 
